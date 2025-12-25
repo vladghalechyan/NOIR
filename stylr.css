@@ -1225,6 +1225,7 @@ flex-wrap: wrap;
 .Art_of_Fashion_img div{
     display: flex;
     width: 100%;
+    flex-direction:column;
 }
 
 .Art_of_Fashion_img>div:first-child{
@@ -1251,3 +1252,4 @@ width: 100%;
 }
 
 }
+
