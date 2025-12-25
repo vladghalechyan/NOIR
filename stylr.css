@@ -1182,6 +1182,7 @@ transition: .7s;
         width: 100%;
         flex-wrap: wrap;
         flex-direction: column;
+        padding:40px 20px;
         justify-content: center;
     }
   .form_contact{
@@ -1248,4 +1249,5 @@ width: 100%;
 .Art_of_Fashion_info{
     width: 100%;
 }
+
 }
